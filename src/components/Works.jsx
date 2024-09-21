@@ -3,7 +3,7 @@ import styled from 'styled-components'; // import styled
 
 const Section = styled.div`
   height: 100vh;
-  background-color: #cda557;
+  scroll-snap-align: center;
 `
 
 export const Works = () => {
